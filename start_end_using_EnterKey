@@ -1,0 +1,10 @@
+input("Press Enter to begin!!!...")
+while True:
+
+#you can enter the code here, which you want to start
+# and stop execting by simply pressing the enter key!
+
+    n = input("Press Enter when you feel to exit: ")
+    if n == '':
+        break
+print('---Congrats, you have Exited successfuly---')
